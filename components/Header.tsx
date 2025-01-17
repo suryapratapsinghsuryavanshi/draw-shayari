@@ -30,7 +30,7 @@ export default function Header() {
             transition={{ delay: 0.2 }}
           >
             <Link
-              href="https://github.com/suryapratapsinghsuryavanshi/jrscript"
+              href="https://github.com/suryapratapsinghsuryavanshi/draw-shayari"
               target="_blank"
               rel="noopener noreferrer"
               className="p-2 rounded-full hover:bg-white/10 transition-colors duration-200 group"
